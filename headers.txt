@@ -2,12 +2,3 @@ Accept: */*
 Accept-Encoding: gzip, deflate, br
 Accept-Language: zh,zh-TW;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
 Connection: keep-alive
-Content-Length: 128
-Content-Type: application/x-www-form-urlencoded
-Cookie: SINAGLOBAL=7164804067230.568.1525063992190; _ga=GA1.2.1222623186.1525418702; SSOLoginState=1530590953; _s_tentry=-; YF-Page-G0=340a8661f2b409bf3ea4c8981c138854; YF-V5-G0=590253f9bb559fcb4f19c58020522401; TC-Page-G0=4e714161a27175839f5a8e7411c8b98c; TC-V5-G0=5fc1edb622413480f88ccd36a41ee587; Apache=2660098301996.301.1530600224990; ULV=1530600225741:9:1:1:2660098301996.301.1530600224990:1530160342027; UOR=www.betteredu.net,widget.weibo.com,www.msxiaobing.com; login_sid_t=3d40d2972f6eb785c3f97884d8a002c0; cross_origin_proto=SSL; TC-Ugrow-G0=370f21725a3b0b57d0baaf8dd6f16a18; wb_view_log=1418*7981.3541666269302368; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5CeTKUH0KxUKNDZpb3ZcRw5JpX5K2hUgL.Fo24SKBEeKzXShe2dJLoI0qLxK-LB.qLB-zLxKBLBo.L1K5LxKML1-2L1hBLxKnL1-eL1KMLxKML1h.L1-zLxKML1h.L1-zt; ALF=1562231782; SCF=ApklhmiH42NnUr6m_zNF8sUw_uSFChT__Jm8Ck7wyrxvT7bnbQZTO3tI45Jg-JLOM6cWtOpXrFOH_YfwdozFSGc.; SUB=_2A252OOA4DeRhGedH7lYT8SzIzz-IHXVVTFbwrDV8PUNbmtBeLXnXkW9NUKXw1BzbFl3lo12nFcsEPicF_zuMiSxY; SUHB=0cSm1tNaaox5jQ; un=459778894@qq.com; wb_view_log_1954212443=1418*7981.3541666269302368
-DNT: 1
-Host: weibo.com
-Origin: https://weibo.com
-Referer: https://weibo.com/message/history?uid=5175429989&name=%E5%B0%8F%E5%86%B0
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
-X-Requested-With: XMLHttpRequest
